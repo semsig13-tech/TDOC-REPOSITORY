@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Черновик"
             }
+          },
+          {
+            "id": "119d3d13f283291a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +212,11 @@
       "quartz-syncer:Quartz Syncer Publication Center": false
     }
   },
-  "active": "a5740553608a7691",
+  "active": "119d3d13f283291a",
   "lastOpenFiles": [
-    "Разное/МТЗ.canvas",
     "Разное/Черновик.md",
     "Без названия.md",
+    "Разное/МТЗ.canvas",
     "Без названия.base",
     "Без названия 1.base"
   ]
