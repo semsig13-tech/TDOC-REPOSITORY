@@ -22,3 +22,4 @@ desktop.ini
 *.tmp
 *.log
 /Разное/
+.obsidian/plugins/quartz-syncer/data.json

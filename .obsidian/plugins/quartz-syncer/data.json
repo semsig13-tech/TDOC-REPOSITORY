@@ -1,19 +1,11 @@
 {
   "settingsSchemaVersion": 5,
   "publishTarget": "remote",
-<<<<<<< HEAD
-  "gitRemoteUrl": "https://github.com/semsig13-tech/TDOC.git",
-  "gitBranch": "v5",
-  "gitCorsProxyUrl": "",
-  "gitAuthType": "bearer",
-  "gitAuthUsername": "semsig13-tech",
-=======
   "gitRemoteUrl": "https://github.com/semsig13-tech/TDOC-copy.git",
   "gitBranch": "v5",
   "gitCorsProxyUrl": "",
   "gitAuthType": "bearer",
   "gitAuthUsername": "",
->>>>>>> TDOC-REPOSITORY/main
   "gitProviderHint": "github",
   "vaultPath": "/",
   "contentFolder": "content",
