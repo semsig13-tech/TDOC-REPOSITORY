@@ -21,9 +21,5 @@ desktop.ini
 # Временные файлы
 *.tmp
 *.log
-<<<<<<< HEAD
-/Разное/
-=======
 /Разное/
 .obsidian/plugins/quartz-syncer/data.json
->>>>>>> e74d4b050519b77a3e2911dbede0ebb307ef5540
