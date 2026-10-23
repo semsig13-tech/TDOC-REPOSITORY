@@ -10,6 +10,9 @@ publish: true
 <a href="https://semsig13-tech.github.io/TDOC/параметрирование-cm_15/настройка-cm_15-при-помощи-mmi" style="display:inline-block; padding:12px 24px; background-color:#33856E; color:#FFFFFF; text-decoration:none; border-radius:6px; font-weight:500; margin:8px;">Настройка CM_15 при помощи MMI</a>
 <a href="https://semsig13-tech.github.io/TDOC/параметрирование-cm_15/обновление-впо/" style="display:inline-block; padding:12px 24px; background-color:#33856E; color:#FFFFFF; text-decoration:none; border-radius:6px; font-weight:500; margin:8px;">Обновление ВПО</a>
 <a href="https://semsig13-tech.github.io/TDOC/параметрирование-cm_15/описание-и-настройка-релейной-защиты-и-автоматики/" style="display:inline-block; padding:12px 24px; background-color:#33856E; color:#FFFFFF; text-decoration:none; border-radius:6px; font-weight:500; margin:8px;">Описание и настройка РЗА</a>
-
+<a href="https://semsig13-tech.github.io/TDOC/smart-платформа/" style="display:inline-block; padding:12px 24px; background-color:#33856E; color:#FFFFFF; text-decoration:none; border-radius:6px; font-weight:500; margin:8px;">Описание Smart-платформы</a>
 
 ![[media/index/3.png]]
+___
+
+![[Log of change#Релиз от 23.10.2026 - TDOC v1.1]]
