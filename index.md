@@ -15,4 +15,4 @@ publish: true
 ![[media/index/3.png]]
 ___
 
-![[Log of change#Релиз от 23.10.2026 - TDOC v1.1]]
+![[Log of change#Релиз от 03.11.2026 - TDOC v1.1]]
